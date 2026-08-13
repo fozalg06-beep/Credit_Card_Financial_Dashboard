@@ -47,3 +47,13 @@ Project Files
 - Customer and transaction CSV files
 - Power BI reports
 - PDF reports
+
+
+
+## Dashboard Preview
+
+### Credit Card Transaction Report
+![Transaction Report](Transaction_Report.pdf)
+
+### Credit Card Customer Report
+![Customer Report](Customer_Report.pdf)
